@@ -1,0 +1,11 @@
+Phase 1 : 
+
+	1 - split the world into two section horizontally each with a differant background .
+
+	2 - spawn 2 players with two differant sprites .
+
+	3 - add world collider and the split screen collider to prevent the players from entering each other`s territory .
+
+	4 - create player physics and player collider .
+
+
