@@ -67,7 +67,7 @@ function create ()
 
     
     platforms.create(400,710-16, 'platform').setScale(6,1).refreshBody();
-    platforms.create(400,400, 'platform').refreshBody();
+    platforms.create(100,400, 'platform').setScale(0.5,0.8).refreshBody();
 
     tasks.create(400 , 350 , 'task').refreshBody();
 

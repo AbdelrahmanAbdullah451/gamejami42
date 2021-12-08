@@ -8,4 +8,13 @@ Phase 1 :
 
 	4 - create player physics and player collider .
 
-
+phase 2 : 
+	1 
+	2 platform  kh pause  kh 
+	3 tasks ab  task logics ab task
+	4 char animation shery esc shery	
+	5 levels 
+	
+	
+	
+	
