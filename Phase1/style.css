@@ -1,0 +1,15 @@
+.taskPosition{
+    position: absolute;
+    left: 30px;
+    top: 200px;
+   
+}
+#task1{
+    background-color: antiquewhite;
+    width: 700px;
+    height: 400px;
+    visibility:hidden;  
+}
+.bg1{
+    background-image: url('assests/task_1.png');
+}
